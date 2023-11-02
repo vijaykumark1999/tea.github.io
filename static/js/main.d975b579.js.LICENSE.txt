@@ -4,6 +4,12 @@
 	http://jedwatson.github.io/classnames
 */
 
+/*!
+ * content-type
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
+
 /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /**
@@ -78,5 +84,3 @@
  *
  * @license MIT
  */
-
-//! goToAndStop must be relative to the start of the current segment
